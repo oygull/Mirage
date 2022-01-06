@@ -104,6 +104,9 @@ ul{
   color: #FFFFFF;
   text-decoration: none;
 }
+.btn:hover{
+  background-color: #f78bb6b0;
+}
 .hero-btn{
   padding: 18px 22px;
   width: 216px;
